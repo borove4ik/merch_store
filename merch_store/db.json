@@ -1,13 +1,7 @@
 {
-    "posts": [
-      { "id": "1", "title": "a title", "views": 100 },
+    "catalogue": [
+      { "id": "1", "title": "PUMA 2025 Lewis Hamilton British GP Cap", "price": 52, "image": "https://www.fuelforfans.com/dw/image/v2/BDWJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw9ac4d178/images/large/701233014001_pp_01_ferrari.jpg?sw=1316&q=80"},
       { "id": "2", "title": "another title", "views": 200 }
-    ],
-    "comments": [
-      { "id": "1", "text": "a comment about post 1", "postId": "1" },
-      { "id": "2", "text": "another comment about post 1", "postId": "1" }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    ]
+    
   }
